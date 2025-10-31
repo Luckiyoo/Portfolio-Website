@@ -61,14 +61,6 @@ portfolio/
 └── README.md
 ```
 
-## Customization
-
-Edit the following files to customize your portfolio:
-- Update your name in the components (already set to Jun Howell Mifa Abucay)
-- Add your projects in `src/components/Projects.jsx`
-- Update skills in `src/components/Skills.jsx`
-- Modify contact information in `src/components/Contact.jsx`
-
 ## Technologies Used
 
 - React 18
@@ -79,4 +71,5 @@ Edit the following files to customize your portfolio:
 ## License
 
 Personal portfolio - Jun Howell Mifa Abucay
+
 
